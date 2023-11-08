@@ -1,0 +1,21 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "vulnerabilityAssessments_Default_storageContainerPath": {
+            "value": null
+        },
+        "servers_srvpro_name": {
+            "value": null
+        },
+        "storageAccounts_covidstrorageac_name": {
+            "value": null
+        },
+        "storageAccounts_covidstorageacdl_name": {
+            "value": null
+        },
+        "systemTopics_covidstrorageac_441b6d78_53ba_46f5_9928_b5930bd56aae_name": {
+            "value": null
+        }
+    }
+}
